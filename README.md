@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Nishant-afk
-A beginner in coding
-Looking to learn new things
-Mainly into C/C++, Java and Python(Learning More!)
+- 👋 Hi, I’m @Nishant-afk                             
+A beginner in coding         
+Looking to learn new things       
+Mainly into C/C++, Java and Python(Learning More!)        
 Also interseted in gaming.
 
 <!---
