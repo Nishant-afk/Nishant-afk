@@ -2,7 +2,7 @@
 A beginner in coding         
 Looking to learn new things       
 Mainly into C/C++, Java and Python(Learning More!)        
-Developed interest in Web Development
+Developed interest in Web Development 👩‍💻.
 Also interseted in gaming.
 
 <!---
