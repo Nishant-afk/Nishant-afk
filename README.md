@@ -2,7 +2,7 @@
 I am coder       
 Looking to learn new things       
 I know C/C++, Java and Python(Learning More!)        
-Interest in Web Development 👩‍💻.
+Interest in Web Development 👩‍💻.          
 My skills include HTML, CSS, Javascript
 Also interseted in gaming.
 
