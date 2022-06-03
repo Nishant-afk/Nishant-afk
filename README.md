@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Nishant-afk                             
-A beginner in coding         
+I am coder       
 Looking to learn new things       
-Mainly into C/C++, Java and Python(Learning More!)        
-Developed interest in Web Development 👩‍💻.      
+I know C/C++, Java and Python(Learning More!)        
+Interest in Web Development 👩‍💻.
+My skills include HTML, CSS, Javascript
 Also interseted in gaming.
 
 <!---
