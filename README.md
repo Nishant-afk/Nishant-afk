@@ -2,7 +2,7 @@
 I am coder       
 Looking to learn new things       
 I know C/C++, Python, Javascript (Learning more!)        
-Interested in Software Development 👩‍💻.
+Interested in Software Development 👩‍💻.                   
 Projects done in ML & Web Development                    
 
 <!---
