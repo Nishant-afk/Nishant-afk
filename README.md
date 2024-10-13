@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Nishant-afk                             
-I am coder       
-Looking to learn new things       
-I know C/C++, Python, Javascript (Learning more!)        
+I am coder
+Learning new things       
+I know C/C++, Javascript
+Worked with .NET and >NET Core, Angular, HTML, CSS and JS   
 Interested in Software Development 👩‍💻.                   
-Projects done in ML & Web Development                    
 
 <!---
 Nishant-afk/Nishant-afk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
