@@ -2,7 +2,7 @@
 I am coder
 Learning new things       
 I know C/C++, Javascript
-Worked with .NET and >NET Core, Angular, HTML, CSS and JS   
+Worked with .NET and .NET Core, Angular along with HTML, CSS and JS   
 Interested in Software Development 👩‍💻.                   
 
 <!---
