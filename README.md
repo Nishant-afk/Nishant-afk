@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Nishant-afk                             
 I am coder
-Learning new things       
-I know C/C++, Javascript
+Learning new things
 Worked with .NET and .NET Core, Angular along with HTML, CSS and JS   
 Interested in Software Development 👩‍💻.                   
 
